@@ -13,6 +13,7 @@ public class Principal {
 		admin.cargarArchivoTxt();//llamada al metodo de la clase administrador
 		admin.soltarProceso();//llamada al metodo de la clase administrador
 		admin.confirmador();//llamada al metodo de la clase administrador
+		//Estos es un comentario
 
 	   
 	}
